@@ -1,5 +1,4 @@
 Province/State,Country/Region,Lat,Long,Date,Value,ISO 3166-1 Alpha 3-Codes,Region Code,Sub-region Code,Intermediate Region Code
-#adm1+name,#country+name,#geo+lat,#geo+lon,#date,#affected+infected+value+num,#country+code,#region+main+code,#region+sub+code,#region+intermediate+code
 ,Afghanistan,33.0,65.0,2020-04-17,99,AFG,142,34,
 ,Afghanistan,33.0,65.0,2020-04-16,54,AFG,142,34,
 ,Afghanistan,33.0,65.0,2020-04-15,43,AFG,142,34,
